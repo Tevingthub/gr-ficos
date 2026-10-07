@@ -54,15 +54,7 @@ Cada comando salva um PNG em `graficos/`. Para também abrir a janela do gráfic
 - Regressão: pontos observados, reta de mínimos quadrados, equação e R². A relação observada não demonstra causalidade.
 - Heatmap: movimento de clientes por horário e dia da semana, de segunda a domingo.
 
-## Entrega pelo GitHub
 
-1. Extraia o ZIP antes de enviar.
-2. Crie um repositório na sua conta do GitHub, por exemplo `atividade-graficos-python`.
-3. Use **Add file → Upload files** e envie o conteúdo desta pasta: os nove scripts, `requirements.txt`, `README.md`, `dados/` e `graficos/`.
-4. Confirme o envio em **Commit changes**.
-5. Entregue o link do repositório ao professor. Se ele não tiver acesso a repositórios privados, deixe o repositório público.
-
-Envie os arquivos extraídos; enviar somente o ZIP dificulta a revisão dos scripts. O projeto só estará entregue pelo GitHub após essa publicação.
 
 ## Gráficos gerados
 
